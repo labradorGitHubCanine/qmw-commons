@@ -1,4 +1,4 @@
-package com.qmw.utils;
+package com.qmw.commons.utils;
 
 public class StringUtils {
 
