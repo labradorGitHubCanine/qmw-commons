@@ -11,6 +11,9 @@
     <!-- https://cloud.tencent.com/developer/article/2212153 -->
     <!-- https://juejin.cn/post/7204668263288143909 -->
 
+    <!-- gitee: https://gitee.com/qmwmq/qmw-commons.git -->
+    <!-- github: https://github.com/labradorGitHubCanine/qmw-commons.git -->
+
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
         <maven.compiler.target>8</maven.compiler.target>
